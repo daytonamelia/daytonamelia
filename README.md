@@ -1,6 +1,4 @@
-## Hi there 👋
-
-I'm a bioinformatician, molecular biologist, and lover of logic and problem-solving.
+## Bioinformatician, molecular biologist, and lover of logic and problem-solving.
 
 <!--
 **daytonamelia/daytonamelia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
