@@ -1,5 +1,10 @@
 ## Bioinformatician, molecular biologist, and lover of logic and problem-solving.
 
+- 🔭 I’m currently working on a pipeline to identify linked genomic regions of causative mutations.
+- 🌱 I’m currently learning about bioinformatics, genomics, and statistics at the University of Oregon.
+- ❤️ I'm passionate about scientific communication and helping make bioinformatics accessible!
+- ⚡ Fun fact: The heat-resistant enzyme Taq DNA polymerase used in PCR comes from the thermophilic bacteria _Thermus aquaticus_!
+
 <!--
 **daytonamelia/daytonamelia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
