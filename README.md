@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on a pipeline to identify linked regions of causative mutations in a genome.
 - 🌱 I’m learning about bioinformatics, genomics, and statistics at the University of Oregon.
 - ❤️ I'm passionate about scientific communication and making bioinformatic tools accessible.
-- ⚡ Fun fact: The heat-resistant enzyme Taq DNA polymerase used in PCR comes from the thermophilic bacteria _Thermus aquaticus_!
+- ⚡ Fun fact: The video game RollerCoaster Tycoon was written almost entirely in x86 assembly language!
 
 <!--
 **daytonamelia/daytonamelia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
