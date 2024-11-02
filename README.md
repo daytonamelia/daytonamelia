@@ -1,8 +1,8 @@
 ## Bioinformatician, molecular biologist, and lover of logic and problem-solving.
 
-- 🔭 I’m currently working on a pipeline to identify linked regions of causative mutations in a genome.
-- 🌱 I’m studying bioinformatics, genomics, and statistics at the University of Oregon.
-- ❤️ I'm passionate about scientific communication and making bioinformatic tools accessible.
+- 🔭 Currently working on a pipeline to identify linked regions of causative mutations in a genome.
+- 🌱 Studying bioinformatics, genomics, and statistics at the University of Oregon.
+- ❤️ Passionate about scientific communication and making bioinformatic tools accessible.
 - ⚡ Fun fact: The video game RollerCoaster Tycoon was written almost entirely in x86 assembly language!
 
 <!--
