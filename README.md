@@ -1,6 +1,7 @@
 ## Bioinformatician, molecular biologist, and lover of logic and problem-solving.
 
-- 🔭 Currently working on a pipeline to identify linked regions of causative mutations in a genome.
+- 🧬 Currently working on a pipeline to identify linked regions of causative mutations in a genome.
+- 🖥️ Proficient in Python, R, and Bash.
 - 🌱 Studying bioinformatics, genomics, and statistics at the University of Oregon.
 - ❤️ Passionate about scientific communication and making bioinformatic tools accessible.
 - ⚡ Fun fact: The video game RollerCoaster Tycoon was written almost entirely in x86 assembly language!
@@ -18,4 +19,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🧬
+- 🖥️
 -->
