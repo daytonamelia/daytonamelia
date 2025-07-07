@@ -1,6 +1,6 @@
 ## Bioinformatician, molecular biologist, and lover of logic and problem-solving.
 
-- 🧬 Currently working on a scRNA pipeline.
+- 🧬 Currently working on scRNA pipelines.
 - 🖥️ Proficient in Python, R, and Bash.
 - 🌱 Expanding my bioinformatics, genomics, and statistics skills at the Allen Institute for Immunology. 
 - ❤️ Passionate about scientific communication and making bioinformatic tools accessible.
