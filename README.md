@@ -1,8 +1,9 @@
-## Molecular Biologist --> Bioinformatician
+## Bioinformatician and Molecular Biologist
 
 - Developing and maintaining scRNA-seq pipelines for the Allen Institute.
 - Proficient in Python, R, and Bash.
 - Passionate about scientific communication and making bioinformatic tools accessible.
+- ... and more!
 
 <!--
 **daytonamelia/daytonamelia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
