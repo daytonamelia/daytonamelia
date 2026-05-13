@@ -1,10 +1,8 @@
-## Bioinformatician, molecular biologist, and lover of logic and problem-solving.
+## Molecular Biologist --> Bioinformatician
 
-- 🧬 Currently developing an end-to-end scRNA-seq pipeline.
-- 🖥️ Proficient in Python, R, and Bash.
-- 🌱 Expanding my bioinformatics, genomics, and statistics skills at the Allen Institute for Immunology. 
-- ❤️ Passionate about scientific communication and making bioinformatic tools accessible.
-- ⚡ Fun fact: The video game RollerCoaster Tycoon was written almost entirely in x86 assembly language!
+- Developing and maintaining scRNA-seq pipelines for the Allen Institute.
+- Proficient in Python, R, and Bash.
+- Passionate about scientific communication and making bioinformatic tools accessible.
 
 <!--
 **daytonamelia/daytonamelia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
